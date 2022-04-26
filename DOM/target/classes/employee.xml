@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Employees>
+    <Employee Rohit="Rohitt" id="1" qwe="22" yes="n">
+        <name>Rohit</name>
+        <gender>male</gender>
+        <age>24</age>
+        <role>software</role>
+    <gender>20</gender>
+<stage>30</stage>
+</Employee>
+    <Employee id="2">
+        <name>shivani</name>
+        <gender>male</gender>
+        <age>19</age>
+        <role>engineer</role>
+    </Employee>
+    <Employee id="3">
+        <name>dima</name>
+        <gender>male</gender>
+        <age>23</age>
+        <role>admin</role>
+    </Employee>
+<Employee id="4">
+<name>petrov</name>
+<gender>male</gender>
+<age>22</age>
+<role>admin</role>
+</Employee>
+</Employees>
