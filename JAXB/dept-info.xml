@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<organisation>
+    <orgTitle>SUPER DEVELOPMENT</orgTitle>
+    <regNumber>NCY93847</regNumber>
+    <orgHead>STEWART GREEN</orgHead>
+    <departments>
+        <department>
+            <deptNo>D01</deptNo>
+            <deptName>ACCOUNTING 1</deptName>
+            <location>NEW YORK</location>
+            <employees>
+                <employee>
+                    <empNo>E01</empNo>
+                    <empName>Tom</empName>
+                </employee>
+                <employee>
+                    <empNo>E02</empNo>
+                    <empName>Mary</empName>
+                    <managerNo>E01</managerNo>
+                </employee>
+                <employee>
+                    <empNo>E03</empNo>
+                    <empName>John</empName>
+                </employee>
+            </employees>
+        </department>
+        <department>
+            <deptNo>D02</deptNo>
+            <deptName>ACCOUNTING 2</deptName>
+            <location>LOS ANGELES</location>
+            <employees>
+                <employee>
+                    <empNo>E04</empNo>
+                    <empName>Nick</empName>
+                </employee>
+                <employee>
+                    <empNo>E05</empNo>
+                    <empName>David</empName>
+                    <managerNo>E04</managerNo>
+                </employee>
+                <employee>
+                    <empNo>E06</empNo>
+                    <empName>Robert</empName>
+                    <managerNo>E04</managerNo>
+                </employee>
+            </employees>
+        </department>
+        <department>
+            <deptNo>D03</deptNo>
+            <deptName>ACCOUNTING 3</deptName>
+            <location>PORTLAND</location>
+            <employees>
+                <employee>
+                    <empNo>E07</empNo>
+                    <empName>Anna</empName>
+                </employee>
+                <employee>
+                    <empNo>E08</empNo>
+                    <empName>Alex</empName>
+                    <managerNo>E07</managerNo>
+                </employee>
+                <employee>
+                    <empNo>E09</empNo>
+                    <empName>Alice</empName>
+                    <managerNo>E07</managerNo>
+                </employee>
+            </employees>
+        </department>
+        <department>
+            <deptNo>D04</deptNo>
+            <deptName>ACCOUNTING 4</deptName>
+            <location>AUSTIN</location>
+            <employees>
+                <employee>
+                    <empNo>E10</empNo>
+                    <empName>Vera</empName>
+                </employee>
+                <employee>
+                    <empNo>E11</empNo>
+                    <empName>Lisa</empName>
+                    <managerNo>E10</managerNo>
+                </employee>
+                <employee>
+                    <empNo>E12</empNo>
+                    <empName>Max</empName>
+                    <managerNo>E10</managerNo>
+                </employee>
+            </employees>
+        </department>
+    </departments>
+</organisation>

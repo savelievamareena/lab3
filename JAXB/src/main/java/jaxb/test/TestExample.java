@@ -59,11 +59,11 @@ public class TestExample {
         Department dept1 = new Department("D01", "ACCOUNTING 1", "NEW YORK");
         dept1.setEmployees(list1);
         Department dept2 = new Department("D02", "ACCOUNTING 2", "LOS ANGELES");
-        dept1.setEmployees(list2);
+        dept2.setEmployees(list2);
         Department dept3 = new Department("D03", "ACCOUNTING 3", "PORTLAND");
-        dept1.setEmployees(list3);
+        dept3.setEmployees(list3);
         Department dept4 = new Department("D04", "ACCOUNTING 4", "AUSTIN");
-        dept1.setEmployees(list4);
+        dept4.setEmployees(list4);
         List<Department> depList1 = new ArrayList<>();
         depList1.add(dept1);
         depList1.add(dept2);
